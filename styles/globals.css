@@ -99,15 +99,6 @@ body {
 button {
   appearance: auto;
   writing-mode: horizontal-tb !important;
-  font-style: ;
-  font-variant-ligatures: ;
-  font-variant-caps: ;
-  font-variant-numeric: ;
-  font-variant-east-asian: ;
-  font-weight: ;
-  font-stretch: ;
-  font-size: ;
-  font-family: ;
   text-rendering: auto;
   letter-spacing: normal;
   word-spacing: normal;
@@ -130,8 +121,9 @@ button {
 }
 
 a {
-  color: inherit;
+  color: black;
   text-decoration: none;
+  background-color: black;
 }
 
 @media (prefers-color-scheme: dark) {
