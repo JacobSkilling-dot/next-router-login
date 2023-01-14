@@ -121,10 +121,8 @@ button {
 }
 
 a {
-  color: black;
+  color: inherit;
   text-decoration: none;
-  background-color: black;
-  border-color: greenyellow;
 }
 
 @media (prefers-color-scheme: dark) {
